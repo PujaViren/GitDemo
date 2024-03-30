@@ -8,7 +8,7 @@ public class CoreJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-     /*int [] arr = new int[5] ;
+		System.out.println("Origin change in GitDemo");     /*int [] arr = new int[5] ;
      arr[0]=1;  //array is static and arraylist is dynamic and have lots of built in method
      int [] arr2= {1,2,3,4,5,6};
      System.out.println(arr2[2]);
@@ -20,6 +20,7 @@ public class CoreJava {
     	 System.out.println(arr2[j]);
     	 
      }
+     
      for(int i : arr2) {
     	 if(i%2==0) {
     	 System.out.println(i);}
